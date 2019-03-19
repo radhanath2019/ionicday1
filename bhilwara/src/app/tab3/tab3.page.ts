@@ -6,7 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['tab3.page.scss']
 })
 export class Tab3Page {
-  openUrl(){
-    window.open("https://docs.google.com/forms/d/1MGEIqw9VxONeDVJeHcO5GmJ98I2i9ALm0KF58e4Aih8/edit");
-  }
+  
 }
